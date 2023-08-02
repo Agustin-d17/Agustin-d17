@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Agustin-d17
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Agustin-d17/Agustin-d17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I'm @Agustin-d17, full stack web developer
+- 👀 I am interested in the development of web applications
+- 🌱 I am currently learning typescript
+- 💞️ I am looking to collaborate on projects that boost my career and learning
+- 📫 How to contact me agustindiaz449@gmail.com
